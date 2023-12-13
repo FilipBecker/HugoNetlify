@@ -1,0 +1,4 @@
+baseURL = 'https://hugotest.org/'
+languageCode = 'sv-se'
+title = 'My New Hugo Site'
+theme = 'ananke'
