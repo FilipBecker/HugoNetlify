@@ -1,4 +1,4 @@
-baseURL = 'https://hugotest.org/'
+baseURL = 'https://spectacular-entremet-d9ca9d.netlify.app/'
 languageCode = 'sv-se'
 title = 'My New Hugo Site'
 theme = 'ananke'
