@@ -7,3 +7,14 @@ SectionPagesMenu = "main"
 
 [params]
     background_color_class = "bg-blue"
+    text_color = "blue"
+
+[[cascade]]
+    text_color = "red"
+    [cascade._target]
+        path = '/contacts/**'
+
+[[cascade]]
+    background = 'img/funnyCrow.jpg'
+    [cascade._target]
+        path = '/about/**'
